@@ -1,0 +1,104 @@
+body {
+    margin: 0px;
+
+}
+
+ul {
+
+    background-color: rgb(0, 177, 80);
+    display: flex;
+    text-align: justify;
+    font-size: large;
+    padding: 10px;
+    margin-top: 0px;
+
+
+}
+
+.ove {
+    display: flex;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+marquee {
+    background-color: rgb(96, 218, 72);
+    width: 100%;
+}
+
+
+.photo {
+    padding-left: 300px;
+}
+
+
+.tabal {
+    background-color: rgb(255, 255, 255);
+    padding-left: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    color: rgb(243, 243, 243);
+    background-color: rgb(12, 175, 66);
+}
+
+.data {
+    display: flex;
+
+}
+
+.logo {
+    margin-left: 45%;
+    background-color: rgb(4, 175, 70);
+    display: block;
+}
+
+.buybus {
+    text-align: center;
+    color: rgb(5, 133, 5);
+}
+
+.nati {
+    background-image: url(sohoj/img/white-background.jpg);
+    padding-left: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.operator {
+    display: flex;
+    padding-left: 90px;
+}
+
+h4 {
+    color: rgb(4, 156, 73);
+    padding-left: 90px;
+}
+
+
+.footer {
+    display: flex;
+    justify-items: flex-start;
+    padding: 10px;
+    align-content: center;
+}
+
+.imsize {
+    padding-left: 90px;
+
+
+
+}
+
+.pfooter {
+    text-align: left;
+    padding-left: 90px;
+}
+
+h2 {}
+
+.last {
+    background-image: url(sohoj/img/lastone.jpg);
+    padding: 100px;
+}
